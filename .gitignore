@@ -129,5 +129,6 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-./es1/conf.json
-./es2/conf.json
+es1/conf.json
+
+es2/conf.json
